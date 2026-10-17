@@ -1,0 +1,15 @@
+Software Engineer - Backend (Entry Level)
+
+We are looking for a software engineer to build and maintain backend services.
+
+Responsibilities:
+- Design and build REST APIs using Python and Django or FastAPI
+- Write efficient SQL queries and work with PostgreSQL and MongoDB
+- Deploy services with Docker on AWS and maintain CI/CD pipelines
+- Write unit tests and take part in code reviews using Git
+
+Requirements:
+- Strong grasp of data structures and algorithms
+- Understanding of system design and microservices
+- Familiarity with Kubernetes is a plus
+- Experience working in an Agile team
